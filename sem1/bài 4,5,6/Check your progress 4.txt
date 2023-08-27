@@ -1,0 +1,8 @@
+1. Operators are the tools that manipulate data
+2. An expression consists of a combination of operators and operands
+3. Precedence establishes the hierarchy of one set of operators over another when an arithmetic expression has to be evaluated
+4. Mixed Mode Expression is one in which the operands of an operator belong to different data types
+5. An expression can be forced to be of a certain type by using a cast
+6. Logical Operators are used to combine or negate expressions containing relational operators
+7. Bitwise logical operators are &, |, ~ and ^
+8. The precedence of operators can be overridden by enclosing the required part of the expression in Parentheses
