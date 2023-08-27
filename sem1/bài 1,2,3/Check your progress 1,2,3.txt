@@ -1,0 +1,8 @@
+Check your progress
+1. C is a case sensitive (True)
+2. The number 10 is a compound assignment operator
+3. The first character of the identifier can be a number (False - The first character of an identifier should always start with an alphabet or underscore)
+4. Using the type float saves memory as it takes only half the space as a double would.
+5. The void data type is used to indicate the C compiler that no value is being returned.
+6. Unary and Binary are the two classes of arithmetic operators.
+7. The unary arithmetic operators are ++ and --
