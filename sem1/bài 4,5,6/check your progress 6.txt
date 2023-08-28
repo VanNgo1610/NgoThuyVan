@@ -1,0 +1,7 @@
+1. The formatted I/O functions are printf() and scanf()
+2. scanf() uses pointers to variables rather than variable names
+3. Format specifier specify the form by which the values of the variables are to be input and printed.
+4. % is used by the printf() function to identify conversion specifications.
+5. getchar() is a function without any arguments (F)
+6. Buffer is a temporary storage area in memory
+7. Escape sequence can be placed outside the control string in printf() (T)
