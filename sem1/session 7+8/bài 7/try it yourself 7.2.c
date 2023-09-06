@@ -7,10 +7,10 @@ int main(){
     scanf("%d %d", &a, &b);
     int productcode;
     float orderamount; 
-    printf(“\n Please enter the product code :” );
-    scanf(“%d”, &productcode);
-    printf(“Please enter the order amount :” );
-    scanf(“ %f” , &orderamount);
+    printf("\nPlease enter the product code :" );
+    scanf("%d", &productcode);
+    printf("Please enter the order amount :" );
+    scanf("%f" , &orderamount);
     if(productcode == a){
         if(orderamount >=1000){
             printf("Greater")
