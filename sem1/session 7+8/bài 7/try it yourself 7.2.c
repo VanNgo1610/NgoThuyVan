@@ -5,22 +5,19 @@ int main(){
     int a; 
     int b; 
     scanf("%d %d", &a, &b);
-    int productcode;
     float orderamount; 
-    printf("\nPlease enter the product code :" );
-    scanf("%d", &productcode);
     printf("Please enter the order amount :" );
     scanf("%f" , &orderamount);
-    if(productcode == a){
-        if(orderamount >=1000){
+    if(orderamount == a){
+        if(a >=1000){
             printf("Greater")
         }
         else{
             printf("Less")
         }
     }
-    if(productcode == b){
-        if(orderamount >=1000){
+    if(orderamount == b){
+        if(b >=1000){
             printf("Greater")
         }
         else{
